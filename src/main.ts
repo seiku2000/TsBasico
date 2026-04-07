@@ -1,5 +1,8 @@
 import './style.css'
 //import './base/app'
-import './base/tiposDatos'
-
-
+//import './base/tiposDatos'
+//import './base/booleans'
+//import './base/number'
+//import './base/string'
+//import './base/any'
+import './base/arrays'
