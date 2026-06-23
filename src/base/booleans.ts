@@ -1,7 +1,8 @@
 let isSuperman:boolean = true;
-let isBatmant:boolean = false;
+let isBatamna:boolean = false;
+
+//isSuperman = (isBatamna) ? 'Abc' : 'Xyz';
+
+
 console.log(isSuperman);
-console.log(isBatmant);
-//isBatmant = true && false;
-isSuperman =(isBatmant) ? true :false;
-console.log(isSuperman);
+console.log(isBatamna);
