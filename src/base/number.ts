@@ -1,14 +1,14 @@
-let avengers:number =5;
-console.log(avengers);
+let avenger:number = 50;
 
-const villians:number = 8;
-if(avengers < villians){
-    console.log('estamos problemas');
-}else {
-    console.log('estamos a salvo');
+console.log(avenger);
+
+const villans = 20;
+
+if(avenger  < villans){
+    console.log("se necesitan mas avengers")
+}else{
+    console.log("tenemos suficientes avengers")
 }
-avengers  =Number('55a');
-console.log(avengers);
 
-
-
+avenger = Number('55A');
+console.log({avenger});//DA NaN porque no es un numero valido, si se pone un numero valido si lo convierte a numbers
