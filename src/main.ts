@@ -21,4 +21,6 @@ import './style.css'
 //import './objects/types'
 //import './objects/union-types'
 //import './es6/letvar'
-import './es6/destObjets'
+//import './es6/destObjets'
+
+import './es6/destArreglo'
