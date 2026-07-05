@@ -24,4 +24,5 @@ import './style.css'
 //import './es6/destObjets'
 
 //import './es6/destArreglo'
-import './es6/forOf'
+//import './es6/forOf'
+//import './classes/clases'
