@@ -28,6 +28,7 @@ class xMen extends Avenger {
     getFullNameDesdeXmen() {
         console.log(super.getFullName());
     }
+    
 
 
 
