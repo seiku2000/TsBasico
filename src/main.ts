@@ -36,4 +36,6 @@ import './style.css'
 //import './interfaces/funciones'
 //import './namespaces/validation'
 //import './classes/index'
-import './generics/index'
+//import './generics/index'
+
+import './generics/indexPokemon'
