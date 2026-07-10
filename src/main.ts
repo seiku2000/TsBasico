@@ -38,4 +38,7 @@ import './style.css'
 //import './classes/index'
 //import './generics/index'
 
-import './generics/indexPokemon'
+//import './generics/indexPokemon'
+
+import './decoradores/indexPokemon'
+    
